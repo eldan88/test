@@ -1,2 +1,2 @@
-This is test the latest and greatest conflict
+This is a simple test change
 
